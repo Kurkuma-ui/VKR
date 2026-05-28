@@ -1,0 +1,24 @@
+# Работа с рынком и данными
+MetaTrader5
+pandas
+numpy
+
+# Парсинг и обход защиты Investing.com
+cloudscraper
+beautifulsoup4
+requests
+
+# Доступ к новостям Yahoo Finance
+yfinance
+
+# Машинное обучение и нейросети
+transformers
+torch
+scipy
+xgboost
+scikit-learn
+
+# Визуализация и утилиты
+matplotlib
+tqdm
+python-dotenv
